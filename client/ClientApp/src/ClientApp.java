@@ -1,5 +1,3 @@
-package clientapp;
-
 import java.net.Socket;
 import java.io.*;
 
